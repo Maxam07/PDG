@@ -20,8 +20,12 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 2px;
 }
 
-.card-text, span {
+.card-text, {
     font-size: .8rem;
+}
+
+span {
+    font-size: .6rem;
 }
 
 a {
