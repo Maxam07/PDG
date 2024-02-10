@@ -45,6 +45,10 @@ a {
 }
 
 @media (max-width: 576px) {
+    .title-text {
+        font-size: .8rem;
+        }    
+    
     span {
         font-size: .7rem;
     }
