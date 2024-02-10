@@ -15,11 +15,6 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
 }
 
-span {
-    font-size: 1rem;
-}
-
-
 .title-text {
     font-family: 'Bebas Neue', sans-serif;
     letter-spacing: 2px;
@@ -49,7 +44,7 @@ a {
     border: none;
 }
 
-@media screen and (max-width: 576px) {
+@media (max-width: 576px) {
     span {
         font-size: .7rem;
     }
